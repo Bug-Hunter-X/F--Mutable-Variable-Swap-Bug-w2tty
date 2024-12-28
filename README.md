@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in F# involving mutable variables. The `bug.fs` file shows a function that attempts to swap two mutable variables, but fails to do so correctly. The `bugSolution.fs` file provides a corrected version of the function.
